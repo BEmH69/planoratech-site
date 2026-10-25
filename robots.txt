@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://bemh69.github.io/planoratech-site/sitemap.xml
